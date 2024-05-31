@@ -28,7 +28,7 @@ def find_postmessage_instances(javascript_code):
 
 # Main function
 def main():
-    target_url = input("Enter the target URL (e.g., https://lnkd.in/etVp5ur4): ").strip()
+    target_url = input("Enter the target URL (e.g., https://example.com): ").strip()
     javascript_code = fetch_javascript(target_url)
     
     if javascript_code:
