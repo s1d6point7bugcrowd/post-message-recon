@@ -41,7 +41,7 @@ This Python script is designed to identify instances of `postMessage` in JavaScr
 2. **Enter the target URL when prompted:**
 
     ```sh
-    Enter the target URL (e.g., https://example.com/script.js): 
+    Enter the target URL (e.g., https://example.com/script.py): 
     ```
 
 3. **Review the results:**
